@@ -1,2 +1,2 @@
-# GRIP-thesparksfoundation-TASK-2-
+# GRIP-thesparksfoundation-TASKS
 Here I am uploading the sparks foundation internship tasks
